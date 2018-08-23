@@ -1,0 +1,21 @@
+.bloque {
+    background-color: burlywood;
+    /* text-align: center; */
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.imagen {
+    width: 256px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#tarjeta>div {
+    display: inline-block;
+    vertical-align: top;
+}
